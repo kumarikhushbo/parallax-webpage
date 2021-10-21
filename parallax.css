@@ -1,0 +1,64 @@
+*{margin:0px;
+padding:0px;
+}
+.parallaxone{
+    width:100%;
+    height:600px;
+    background-image:url(file:///C:/Users/ACER/Desktop/photography%20gallery/y);
+    background-size:100% 100%;
+    background-attachment:fixed;
+    opacity:0.70;
+    
+}
+.parallaxone h2{
+    position:relative;
+    left:400px;
+    top:250px;
+    width:420px;
+    height:40px;
+    padding:10px;
+    background-color:black;
+    color:white;
+    text-align:center;
+    font-size:30px;
+    font-family:sans-serif;
+}
+
+
+.parallaxtwo{
+    width:100%;
+    height:600px;
+    background-image:url(file:///C:/Users/ACER/Desktop/photography%20gallery/yy);
+    background-size:100% 100%;
+    background-attachment:fixed;
+    opacity:0.70;
+    
+}
+.parallaxtwo h2{
+    position:relative;
+    left:400px;
+    top:250px;
+    width:450px;
+    height:45px;
+    padding:10px;
+    font-size:30px;
+    color:white;
+    text-align:center;
+    font-family:  sans-serif;
+}
+
+
+.para{
+    padding-top:80px;
+    height:300px;
+    text-align:center;
+    font-size:22px;
+    background-color:white;
+    color:black;
+   
+}
+#heading{
+    text-align:center;
+}
+    
+
